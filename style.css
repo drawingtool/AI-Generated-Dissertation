@@ -13,17 +13,19 @@ canvas {
 
 
 h1 {
+    font-family: 'Space Mono', monospace;
+    font-style: italic;
     position: absolute;
     display: inline-block;
     margin top: 0;
-    font-family: 'Space Mono', monospace;
-    font-size: 100px;
-    font-style: Bold;
+    margin-bottom: 0;
     text-align: left;
-    margin-left: 40px;
-    margin-top: 40px;
-    line-height: 1;
-    color:rgb(60,60,60);
+    font-size: 20px;
+    left: 52%;
+    right: 1%;
+    top: 18%;
+    color:gainsboro;
+    line-height: 1.1;
 }
 
 h2 {
@@ -69,7 +71,7 @@ h4 {
     font-size: 20px;
     left: 2%;
     right: 52%;
-    top: 18%;
+    top: 16%;
     color:rgb(60,60,60);
     line-height: 1.1;
     
@@ -123,7 +125,7 @@ p3 {
     left:2%;
     margin-left: 2%;
     color: rgb(60,60,60);
-    line-height: 1.1;
+    line-height: 1.2;
 }
 
 #right {
@@ -135,10 +137,11 @@ p3 {
     top: ;
     right:;
     color: gainsboro;
-    line-height: 1.1;
+    line-height: 1.2;
     
     
 }
+
 
 
 
